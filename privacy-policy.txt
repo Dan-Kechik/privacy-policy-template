@@ -5,7 +5,7 @@
 
 ## Collection of Routine Information
 
-This [["website" or "app"]] have access to youtube profile, openID and email address of its users, some information that users provide us directly such as ... We use obtained information just for user authorization required by youtube service to perform the main purpose of this application. We do not store users data anywhere, do not share it with or sell it to some third parties, do not use it for advertising or some other goals that are not directly related with purposes of this application.
+This [["website" or "app"]] have access to youtube profile, [openID](https://developers.google.com/identity/protocols/oauth2/openid-connect) and email address of its users, some information that users provide us directly such as ... We use obtained information just for user authorization required by youtube service to perform the main purpose of this application. We do not store users data anywhere, do not share it with or sell it to some third parties, do not use it for advertising or some other goals that are not directly related with purposes of this application.
 
 
 ## Security
