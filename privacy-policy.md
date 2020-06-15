@@ -5,22 +5,7 @@
 
 ## Collection of Routine Information
 
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
-
-
-## Cookies
-
-Where necessary, this [["website" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
-
-
-## Advertisement and Other Third Parties
-
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["website" or "app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["website" or "app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
-
-
-## Links to Third Party Websites
-
-[["We" or "I"]] have included links on this [["website" or "app"]] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
+This [["website" or "app"]] have access to youtube profile, openID and email address of its users, some information that users provide us directly such as ... We use obtained information just for user authorization required by youtube service to perform the main purpose of this application. We do not store users data anywhere, do not share it with or sell it to some third parties, do not use it for advertising or some other goals that are not directly related with purposes of this application.
 
 
 ## Security

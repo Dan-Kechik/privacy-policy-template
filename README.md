@@ -34,6 +34,8 @@ The Privacy Policy is required by law if you collect personal data. One should b
 * Desktop app
 * Digital product
 
+Here I'm trying to create policy page for application that has access to users profile and requires authorization. Application do not store some esers data.
+
 
 ## How this Privacy Policy Template works
 
