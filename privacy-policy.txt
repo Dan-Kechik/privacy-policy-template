@@ -1,25 +1,25 @@
 # Privacy Policy
 
-[["We" or "I", or Website or App name]] takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+Youtube playlist additor application (hereinafter "application") takes your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
 
-This [["website" or "app"]] have access to youtube profile, [openID](https://developers.google.com/identity/protocols/oauth2/openid-connect) and email address of its users, some information that users provide us directly such as ... We use obtained information just for user authorization required by youtube service to perform the main purpose of this application. We do not store users data anywhere, do not share it with or sell it to some third parties, do not use it for advertising or some other goals that are not directly related with purposes of this application.
+This application have access to youtube profile, [openID](https://developers.google.com/identity/protocols/oauth2/openid-connect) and email address of its users, some information that users provide us directly: observed playlists, selected videos, playlist to which мvideos are added. We use obtained information just for user authorization required by youtube service to perform the main purpose of this application. We do not store users data anywhere, do not share it with or sell it to some third parties, do not use it for advertising or some other goals that are not directly related with purposes of this application.
 
 
 ## Security
 
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
+The security of your personal information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
 
 
 ## Changes To This Privacy Policy
 
-This Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of 15.06.2020 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-[["We" or "I"]] reserve the right to update or change [["our" or "my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["we" or "I"]] make any material changes to this Privacy Policy, [["we" or "I"]] will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on [["our" or "my"]] [["website" or "app"]].
+I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If I make any material changes to this Privacy Policy, I will notify you either through the email address you have provided me, or by placing a prominent notice on my application.
 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
+For any questions or concerns regarding the privacy policy, please send me an email to dankechik@gmail.com.
